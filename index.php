@@ -1,4 +1,4 @@
 <?php 
 
-phpinfo();
+echo "Its's staing server"
 ?>

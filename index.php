@@ -1,4 +1,4 @@
 <?php 
 
-phpinfo();
+echo "Oh! It's my prod server"
 ?>
